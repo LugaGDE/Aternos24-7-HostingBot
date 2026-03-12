@@ -30,9 +30,6 @@
       "enabled": true,
       "repeat": true,
       "repeat-delay": 120,
-      "messages": [
-        "67",
-      ]
     },
     "chat-log": true,
     "auto-reconnect": true,
